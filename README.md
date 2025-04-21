@@ -1,7 +1,7 @@
-<h1 align="center">Hello👋, I'm Chesna Johnson</h1>
+<h1 align="center">Hello, I'm Chesna Johnson</h1>
 <h3 align="center">A passionate software developer</h3>
 
-- 🌱 I’m currently learning **React, Node.js API development, Express middleware, MongoDB**
+- 🌱 I’m currently learning **React, Node.js API development, Express, MongoDB**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
