@@ -3,7 +3,6 @@
 
 - 🌱 I’m currently learning **React, Node.js API development, Express, MongoDB**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
