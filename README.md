@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Chesna Johnson</h1>
-<h3 align="center">A passionate software developer</h3>
+<h3 height="10" align="center">A passionate software developer</h3>
 
 - 🌱 I’m currently learning **React, Node.js API development, Express, MongoDB**
 
